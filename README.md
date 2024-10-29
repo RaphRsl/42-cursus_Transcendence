@@ -5,6 +5,9 @@
 
 The **Transcendence** project aimed to create a comprehensive **online multiplayer game** platform, making use of **full-stack** web development technologies. As the final project in the core part of École 42’s curriculum, it tested our abilities to work in a team while tackling real-world challenges, from frontend and backend development to implementing cybersecurity and DevOps practices. This project embodied the culmination of our foundational learning and served as a bridge into the more advanced topics of the 42 curriculum.
 
+> Important disclaimer about the .env file <br>
+The .env file included in this repository only contains **fake credentials** and is intended for academic purposes only. It is crucial to avoid pushing sensitive information to public repositories. Please ensure that you **NEVER PUSH secure credentials** when deploying an application. Always include your .env file in the .gitignore file to avoid errors. **NEVER PUSH AN .ENV FILE** on Github!
+
 <br>
 
 ## Table of Contents
