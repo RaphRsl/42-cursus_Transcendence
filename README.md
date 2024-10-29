@@ -15,7 +15,7 @@ The **Transcendence** project aimed to create a comprehensive **online multiplay
    - [Accessing the Application](#accessing-the-application)
    - [Other useful commands](#other-useful-commands)
 3. [Technical Notions and Key Parts](#technical-notions-and-key-parts)
-4. [Images from the game](#images-from-the-game)
+4. [Images of the game](#images-of-the-game)
 5. [Author and Contributing](#author-and-contributing)
    - [How to Contribute](#how-to-contribute)
   
@@ -174,7 +174,7 @@ The **Transcendence** project aimed to create a comprehensive **online multiplay
   </tbody>
 </table>
 
-## Images for the game
+## Images of the game
 
 <br>
 <div align="center">
