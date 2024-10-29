@@ -1,4 +1,5 @@
 # Transcendence by RaphRsl
+![Screenshot from 2024-10-29 11-57-52](https://github.com/user-attachments/assets/76a58dc0-4de5-430f-8e26-38dd40c0b682)
 
 ## Description
 
@@ -13,13 +14,14 @@ The **Transcendence** project aimed to create a comprehensive **online multiplay
   - **Python (Django)** / **Vanilla JavaScript** / **PostgreSQL** / **HTML/CSS** / **ThreeJS** / **Docker** / **Docker Compose**
 
 - **Key Features:**
+  - Designed as a **single-page application** (SPA) for improved performance and user experience, allowing instant interactions without full page reloads.
   - Developed using a secure and scalable backend with **Django**.
   - Implemented user authentication with **Two-Factor Authentication (2FA)** and **JWT**.
   - Deployed the entire application using **Docker** containers for consistency and ease of setup.
   - Enabled game modes, including single-player against AI and multiplayer modes.
   - Created dynamic customization options for user experiences.
   - Managed a full-fledged tournament system for competitive play.
-  - Designed advanced 3D graphics using **ThreeJS** to provide an immersive experience.
+  - Designed advanced 3D graphics using ThreeJS to provide an immersive experience.
 
 ## Technical Notions and Key Parts
 
@@ -33,9 +35,13 @@ The **Transcendence** project aimed to create a comprehensive **online multiplay
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3"><strong>Web</strong></td>
+      <td rowspan="4"><strong>Web</strong></td>
       <td><strong>Django</strong></td>
       <td>Built the backend using Django, which provided a stable framework to develop and maintain the application’s core functionalities. It handled all data processing and interactions.</td>
+    </tr>
+    <tr>
+     <td><strong>Single-Page Application (SPA)</strong></td>
+     <td>Designed as a single-page application to provide a smooth and interactive user experience, minimizing load times and enabling instant content updates without full page reloads.</td>
     </tr>
     <tr>
       <td><strong>PostgreSQL</strong></td>
@@ -105,6 +111,15 @@ The **Transcendence** project aimed to create a comprehensive **online multiplay
 
 
 <br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/01c274bd-e7b9-48d2-bf2e-2c08511ee00e" width="500" />
+  <img src="https://github.com/user-attachments/assets/fd9db9a8-888b-41ad-a891-c3f8e4c5e830" width="500" />
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8c45f8d5-97c2-444c-b00c-97c9dd13c821" width="500" />
+  <img src="https://github.com/user-attachments/assets/271c9b91-7ef7-4eaf-8a1d-11b93e9d64fb" width="500" />
+</div>
+
 <hr style="width: 50%; margin: auto;">
 <br><br>
 
