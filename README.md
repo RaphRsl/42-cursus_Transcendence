@@ -5,6 +5,22 @@
 
 The **Transcendence** project aimed to create a comprehensive **online multiplayer game** platform, making use of **full-stack** web development technologies. As the final project in the core part of École 42’s curriculum, it tested our abilities to work in a team while tackling real-world challenges, from frontend and backend development to implementing cybersecurity and DevOps practices. This project embodied the culmination of our foundational learning and served as a bridge into the more advanced topics of the 42 curriculum.
 
+<br>
+
+## Table of Contents
+1. [Overview of the Project](#overview-of-the-project)
+2. [Installation and Usage](#installation-and-usage)
+   - [Prerequisites](#prerequisites)
+   - [Cloning and Running](#cloning-and-running)
+   - [Accessing the Application](#accessing-the-application)
+   - [Other useful commands](#other-useful-commands)
+3. [Technical Notions and Key Parts](#technical-notions-and-key-parts)
+4. [Images from the game](#images-from-the-game)
+5. [Author and Contributing](#author-and-contributing)
+   - [How to Contribute](#how-to-contribute)
+  
+<br>
+
 ## Overview of the Project
 
 - **What the Project Is:**
@@ -22,6 +38,55 @@ The **Transcendence** project aimed to create a comprehensive **online multiplay
   - Created dynamic customization options for user experiences.
   - Managed a full-fledged tournament system for competitive play.
   - Designed advanced 3D graphics using ThreeJS to provide an immersive experience.
+
+---
+<br>
+
+## Installation and Usage
+
+### Prerequisites
+
+- Docker and Docker Compose installed on your machine.
+
+### Cloning and Running
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/RaphRsl/42-cursus_Transcendence.git
+   ```
+
+2. Change into the project directory:
+   ```bash
+   cd transcendence
+   ```
+
+3. Use the command to start the project:
+   ```bash
+   make
+   ```
+   Wait for all the Docker containers to be up and running.
+
+### Accessing the Application
+
+1. Open your web browser.
+2. Navigate to the following URL:
+   ```
+   https://localhost:4443/
+   ```
+3. If you encounter a "not secure" warning in your browser, bypass it (in Chrome you can bypass it by typing `thisisunsafe`).
+4. Enjoy the game!
+
+> **Note:** If you chose to activate Two-Factor Authentication (2FA), you will need the Google Authenticator app.
+
+### Other Useful Commands
+
+- `make restart` – Fully restart all services.
+- `make status` – Check the status of the Docker containers.
+- `make fclean` – Stop Docker containers and remove all containers, networks, and volumes.
+
+--- 
+
+<br>
 
 ## Technical Notions and Key Parts
 
@@ -109,6 +174,7 @@ The **Transcendence** project aimed to create a comprehensive **online multiplay
   </tbody>
 </table>
 
+## Images for the game
 
 <br>
 <div align="center">
